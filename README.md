@@ -103,7 +103,7 @@ If you want to customize the agent's behavior (e.g., change the tweeting frequen
 
 ## Support
 If you encounter any issues or have questions, feel free to reach out:
-- **Developer**: Sardar Awais
+- **Developer**: DeepSeeking_Whale
 
 - **GitHub**: [SardarAwais88](https://github.com/SardarAwais88)
 
